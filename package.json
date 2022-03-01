@@ -1,0 +1,22 @@
+{
+    "id": "fui-tabs",
+    "name": "Tabs 标签页",
+    "version": "v1.0.0",
+    "description": "Tabs 标签页，分隔内容上有关联但属于不同类别的数据集合。",
+    "keywords": [
+        "tabs",
+        "FirstUI",
+        "fui-tabs",
+        "标签页",
+        "Nvue"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    },
+    "dependencies": {
+        "uview-ui": "^2.0.28"
+    }
+}
